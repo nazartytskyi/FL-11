@@ -161,13 +161,13 @@
   }
 
   .heading ol li .text::after {
-      content: "New";
-      color: red;
-      font-size: .75em;
-      vertical-align: super;
-      text-decoration: none;
-      font-variant: small-caps;
-      font-weight: bold;
+    content: "New";
+    color: red;
+    font-size: .75em;
+    vertical-align: super;
+    text-decoration: none;
+    font-variant: small-caps;
+    font-weight: bold;
   }
 
   .blocks ul li:nth-child(even) {
