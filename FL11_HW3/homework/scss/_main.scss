@@ -1,0 +1,254 @@
+@mixin button {
+	background-color: $btnColor;
+	color: #f2f3e7;
+	border: none;
+	text-align: center;
+	height: 60px;
+	width: 180px;
+	border-radius: 2px;
+	font-family: map_get($fonts, main);
+	font-size: 20px;
+	font-weight: bold;
+	
+	&:hover {
+		background-color: lighten($btnColor, 5%);
+		cursor: pointer;
+	}
+	&:active {
+		padding: 11px 34px;
+	}
+}
+
+$fonts: (
+	main: ('Hind', sans-serif),
+	secondary: $secondaryFont
+);
+
+* {
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	background-color: $mainBg;
+	color: $mainTextColor;
+}
+
+.landing-logo {
+	display: flex;
+	width: 140px;
+	height: 50px;
+	justify-content: space-between;
+	font-family: map_get($fonts, main);
+
+	p {
+		display: flex;
+		flex-direction: column;
+		align-items: center;
+		font-weight: bold;
+		font-size: 26px;
+		height: 100%;
+		line-height: 24px;
+		padding: 5px;
+
+		span {
+			font-weight: normal;
+			font-size: 10px;
+
+		}
+	}
+
+	img {
+		height: 50px;
+	}
+}
+
+.header {
+	height: 100vh;
+	width: 100%;
+	background-image: $headerBg;
+	background-repeat: no-repeat;
+	background-position: center;
+	border-bottom: 20px solid transparent;
+	border-right: 40px solid transparent;
+	border-radius: 0 0 40%/40% 0;
+	
+	&-wrap {
+		padding: 20px 200px;
+	}
+
+	&_heading {
+		position: relative;
+		width: 650px;
+		font-size: 86px;
+		font-weight: bold;
+		font-family: map_get($fonts, main);
+		margin-top: 100px;
+		z-index: 25;
+		line-height: 90px;
+
+		&::before {
+			content: '';
+			background-color: $underscoreColor;
+			width: 360px;
+			height: 30px;
+			bottom: 3px;
+			left: 0;
+			position: absolute;
+			z-index: -20;
+		}
+	}
+
+	&_text {
+		font-family: map_get($fonts, secondary);
+		font-size: 22px;
+		width: 830px;
+		margin-top: 80px;
+		line-height: 32px;
+	}
+
+	&_button {
+		@include button;
+		margin-top: 50px;
+	}
+}
+
+.section {
+	@extend .header-wrap;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	font-family: map_get($fonts, main);
+	color: $secondaryTextColor;
+	
+	&_text {	
+		color: $mainTextColor;	
+		font-weight: bold;
+		font-size: 50px;
+		margin-top: 30px;
+		position: relative;
+		z-index: 20;
+
+		&::before {
+			content: '';
+			background-color: $underscoreColor;
+			width: 230px;
+			height: 20px;
+			bottom: 20px;
+			left: 280px;
+			position: absolute;
+			z-index: -20;
+		}
+	}
+
+	&_card_wrap {
+		display: flex;
+		justify-content: space-between;
+		width: 100%;
+		margin-top: 40px;
+	}
+
+	&_card {
+		display: flex;
+		flex-direction: column;
+		align-items: center;
+		width: 500px;
+		height: 570px;
+		padding: 25px;
+		background-color: $secondaryBg;
+		border-radius: 10px;
+		position: relative;
+		z-index: 20;
+
+
+		&_img {
+			height: 300px;
+			border-radius: 10px;
+		}
+
+		&_heading {
+			font-family: map_get($fonts, secondary);
+			font-weight: bold;
+			font-size: 28px;
+			padding: 10px 0;
+			position: relative;
+			z-index: 20;
+
+			&::before {
+				content: '';
+				background-color: $underscoreColor;
+				width: 100%;
+				height: 13px;
+				bottom: 12px;
+				left: 0;
+				position: absolute;
+				z-index: -20;
+			}
+		}
+
+		&_text {
+			font-family: map_get($fonts, secondary);
+			font-size: 22px;	
+			display: flex;
+			justify-content: center;
+			opacity: 0.8;		
+		}
+	}
+
+	&_banner {
+		width: 1200px;
+		height: 180px;
+		background-image: linear-gradient(to right, $gradientStart , $gradientEnd);
+		border-radius: 10px;
+		padding: 50px 130px;
+		display: flex;
+		justify-content: space-between;
+		font-family: map_get($fonts, main);
+		margin-top: 180px;	
+
+		&_heading {
+			font-size: 40px;
+			font-weight: bold;
+		}
+
+		&_text {
+			font-size: 20px;
+			color: $secondaryTextColor;
+			opacity: 0.8;
+		}
+
+		&_button {
+			@include button;
+		}
+	}
+}
+
+.footer {
+	background-color: $secondaryBg;
+	height: 300px;
+	width: 100%;
+	padding: 0 200px;
+	display: flex;
+	font-family: map_get($fonts, secondary);
+	font-size: 20px;
+	margin-top: -110px;
+	color: $secondaryTextColor;
+
+	&-wrap {
+		display: flex;
+		justify-content: space-between;
+		height: 200px;
+		width: 100%;
+		align-items: center;
+		align-self: flex-end;
+	}
+
+	&_text {
+		width: 380px;		
+	}
+
+	p, span {
+		opacity: 0.8;
+	}
+}
