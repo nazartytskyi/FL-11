@@ -33,7 +33,7 @@ if (continueAnswer) {
 				break;
 			}
 			
-			if (i === 4) {
+			if (i === 3) {
 				totalPrize = 0;
 			}
 			
