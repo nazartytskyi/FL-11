@@ -33,7 +33,7 @@ if (continueAnswer) {
 				break;
 			}
 			
-			if (i === 3) {
+			if (i === NUM_OF_ATTEMPTS) {
 				totalPrize = 0;
 			}
 			
