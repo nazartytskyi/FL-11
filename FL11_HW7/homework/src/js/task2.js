@@ -32,7 +32,11 @@ if (continueAnswer) {
 
 				break;
 			}
-
+			
+			if (i === 4) {
+				totalPrize = 0;
+			}
+			
 			currentAtemptPossiblePrize = currentAtemptPossiblePrize / DECREASE_DIVIDER;
 		}
 		
