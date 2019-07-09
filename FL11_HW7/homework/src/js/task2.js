@@ -5,7 +5,6 @@ const DECREASE_DIVIDER = 2;
 const INCREASE_MULTIPLIER = 3;
 const PRIZE_INCREASE = 4;
 
-
 let maxRange = START_RANGE;
 let totalPrize = 0;
 let possiblePrize = START_PRIZE;
@@ -22,13 +21,13 @@ if (continueAnswer) {
 			userNumber = parseInt( prompt(
 				'Enter a number from 0 to ' + maxRange + 
 				'\nAttempts left: ' + (NUM_OF_ATTEMPTS + 1 - i) + 
-				'\nTotal prize: ' + totalPrize +
-				'\nPossible prize on current attempt: ' + currentAtemptPossiblePrize ) );
+				'\nTotal prize: ' + totalPrize + '$' +
+				'\nPossible prize on current attempt: ' + currentAtemptPossiblePrize + '$' ) );
 
 			if (userNumber === randomNumber) {
 				totalPrize += currentAtemptPossiblePrize;
 				continueAnswer = confirm(
-					'Congratulation! \nYour prize is: ' + totalPrize + 
+					'Congratulation! \nYour prize is: ' + totalPrize + '$' + 
 					'\nDo you want to continue?');
 
 				break;
