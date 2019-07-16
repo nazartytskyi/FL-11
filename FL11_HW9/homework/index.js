@@ -161,7 +161,7 @@ function keys(obj) {
 
 keys({keyOne: 1, keyTwo: 2, keyThree: 3});
 
-// 	--- TASK 10 --- 
+// 	--- TASK 10 ---  
 function values(obj) {
 	let valuesArr = [];
 
