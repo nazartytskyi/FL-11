@@ -100,6 +100,7 @@ function editTodoItem(el) {
 
 
 	el.target.previousSibling.remove();
+	el.target.previousSibling.style.display = 'none';
 	el.target.parentElement.insertBefore(editField, el.target);
 }
 
@@ -114,6 +115,7 @@ function saveEditedItem(el) {
 
 	const todoText = createEl('p', '', el.target.previousSibling.value);
 	el.target.previousSibling.remove();
+	el.target.previousSibling.style.display = 'flex';
 	el.target.parentElement.insertBefore(todoText, el.target);
 }
 
