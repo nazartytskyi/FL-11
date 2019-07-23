@@ -31,7 +31,6 @@ function dragDrop(el) {
 
 }
 
-
 function addTodoItem() {
 	const input = document.getElementById('input');
 
