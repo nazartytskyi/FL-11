@@ -28,7 +28,6 @@ function dragDrop(el) {
 	}
 
 	target.parentElement.insertBefore(dragged, target);
-
 }
 
 function addTodoItem() {
