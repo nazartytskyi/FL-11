@@ -1,0 +1,38 @@
+@import url("variables.less");
+@import url("mixins.less");
+
+.heading {
+	color:@main-color;
+}
+
+.navbar {
+	.navbar-nav {
+		.active {
+			background-color: @main-color;
+			
+			>.nav-link {
+				color: white;
+			}
+		}
+	}
+}
+
+.figure-red {
+	.figure-main-color(@red);
+}
+
+.figure-orrange {
+	.figure-main-color(@orange);
+}
+
+.figure-blue {
+	.figure-main-color(@blue);
+}
+
+.figure-green {
+	.figure-main-color(@green);
+}
+
+.footer-text {
+	background-color: @footer-bg;
+}
