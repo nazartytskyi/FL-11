@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="./styles/bootstrap.min.css">
+    <link rel="stylesheet/less" type="text/css" href="./styles/styles.less">
+    <script src="./js/less.min.js" type="text/javascript"></script>
+
+    <title>CSS Frameworks</title>
+</head>
+<body>
+    <header>
+        <nav class="navbar navbar-expand-md navbar-light bg-light border-bottom py-0">
+            <div class="container">
+                <a href="#" class="navbar-brand">
+                    <img src="./img/logo.png" alt="Company logo"  class="img-fluid">
+                </a>
+                
+                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#main-navigation" aria-controls="main-navigation" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+
+                <ul class="navbar-nav collapse navbar-collapse" id="main-navigation">
+                    <li class="nav-item active px-3">
+                         <a href="#" class="nav-link">Classes<span class="sr-only">(current)</span></a>
+                    </li>
+                    <li class="nav-item px-3">
+                        <a href="#" class="nav-link">About us</a>  
+                    </li>
+                    <li class="nav-item px-3">
+                        <a href="#" class="nav-link">Contacts</a>
+                    </li>
+                </ul>
+            </div>
+        </nav>
+    </header>
+
+    <main>
+        <section class="container mt-3">
+            <h1 class="heading">Yoga Pilates</h1>
+            <hr class="mt-0">
+
+            <div class="row">
+                <div class="col-lg-8 col-12">
+                    <img src="./img/yoga.jpg" alt="Yoga"  class="img-fluid">
+                </div>
+
+                <div class="col-lg-4 col-12">
+                    <h2 class="mt-3 heading">Class description</h2>
+                    <p>This workout uses a series of exercise routines designed to increase your core strength & improve your posture, energy, & flexibility. Pilates work is powered by breath, flow, & centering. By focusing on the mind-body connection & using more efficient form, this workout helps develop a stronger, leaner, healthier body. Appropriate for all fitness levels.</p>
+                    <ul>
+                        <li>One Personal Trainer</li>
+                        <li>Big gym space for training</li>
+                        <li>Free tools & props</li>
+                        <li>Free locker</li>
+                        <li>Free before / after shower</li>
+                    </ul>
+                </div>
+            </div>
+        </section>
+
+        <section class="container mt-5">
+            <h2 class="heading">Related classes</h2>
+            <hr class="mt-0">
+            <div class="row ">
+                <div class="col-md-3 col-6 mb-3">
+                    <figure class="d-flex align-items-center flex-column figure-red">
+                        <img src="./img/cardio-kickbox.jpg" alt="Cardio kickboxing" class="img-fluid">
+                        <figcaption class="w-100">
+                            <p class="text-center text-light p-1 m-1">Cardio kickboxing</p>
+                        </figcaption>
+                    </figure>
+                </div>
+
+                <div class="col-md-3 col-6 mb-3">
+                    <figure class="d-flex align-items-center flex-column figure-blue">
+                        <img src="./img/fitness.jpg" alt="Fitness xpress" class="img-fluid">
+                        <figcaption class="w-100">
+                            <p class="text-center text-light p-1 m-1">Fitness xpress</p>
+                        </figcaption>
+                    </figure>
+                </div>
+
+                <div class="col-md-3 col-6 mb-3mb-3">
+                    <figure class="d-flex align-items-center flex-column figure-orrange">
+                        <img src="./img/zumba.jpg" alt="Zumba" class="img-fluid">
+                        <figcaption class="w-100">
+                            <p class="text-center text-light p-1 m-1">Zumba</p>
+                        </figcaption>
+                    </figure>
+
+                </div>
+
+                <div class="col-md-3 col-6 mb-3">
+                    <figure class="d-flex align-items-center flex-column figure-green">
+                        <img src="./img/bootcamp.jpg" alt="Bootcamp" class="img-fluid">
+                        <figcaption class="w-100">
+                            <p class="text-center text-light p-1 m-1">Bootcamp</p>
+                        </figcaption>
+                    </figure>
+                </div>
+            </div>
+        </section>
+    </main>
+    
+    <footer class="container">
+        <div class="row">
+            <div class="col">
+                <p class="footer-text h-100 align-middle m-0 py-1 px-3 text-light">&copy;Epam Front-end lab, 2019</p>
+            </div>  
+        </div>
+    </footer>
+
+    <script src="./js/jquery.min.js"></script>
+    <script src="./js/popper.min.js"></script>
+    <script src="./js/bootstrap.min.js"></script>
+</body>
+</html>
