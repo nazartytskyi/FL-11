@@ -20,8 +20,6 @@ Pokemon.prototype.getPokemonType = function() {
 	return this.constructor.name;
 }
 
-
-
 function Charmander() {
 	Pokemon.call(this, 'Fire', 'Lizard Pokemon');
 }
