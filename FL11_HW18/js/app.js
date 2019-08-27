@@ -3,7 +3,6 @@ document.body.appendChild(loader);
 loader.style.display = 'none';
 
 const backBtn = toHTMLElement('<div class="back-btn">Go Back</div>')
-
 backBtn.addEventListener('click', () => {
 	document.body.innerHTML = '';
 	window.location.href= '';
@@ -103,6 +102,7 @@ class UserCard {
 	}
 
 }
+
 function usersLoader() {
 	showLoader(loader)
 	fetch('https://jsonplaceholder.typicode.com/users/')
@@ -117,7 +117,6 @@ function usersLoader() {
 		hideLoader(loader);
 	});
 }
-
 
 window.onhashchange = function() {
 	const userWraps = document.querySelectorAll('.user-wrap');
@@ -166,7 +165,6 @@ class Post {
 					<p>${this._postBody}</p>
 				</div>
 				<div class="comments-wrapper">
-
 				</div>
 			</div>
 			`
@@ -183,10 +181,8 @@ class Post {
 			`
 			innerHTML.querySelector('.comments-wrapper').appendChild(toHTMLElement(commentsHTML));
 		}
-
 		document.body.appendChild(innerHTML);
 	}
-
 }
 
 function getPosts(id) {
@@ -198,8 +194,8 @@ function getPosts(id) {
 
 function getComments() {
 	return fetch(`https://jsonplaceholder.typicode.com/comments`)
-	.then((response) => {
-		return response.json()
+	.then((data) => {
+		return data.json()
 	})
 }
 
