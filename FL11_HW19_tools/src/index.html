@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+    <link rel="stylesheet" href="css/styles.css">
+</head>
+
+<body>
+    <div class="container">
+        <header>
+            <h1 class="logo-text">Rock - Paper - Scissors</h1>
+        </header>
+        <main>
+            <div id="rules">
+                <h4>RULES:</h4>
+                <ul>
+                    <li>Scissors beats a paper</li>
+                    <li>Paper beats a rock</li>
+                    <li>Rock beats a scissors</li>
+                    <li>And we play up to tree rounds!</li>
+                </ul>
+                <button id="start-button">LET`S START!</button>
+            </div>
+
+            <div id="game">
+                <div class="human-choice">
+                    <img src="img/rock.png" alt="" id="rock" class="human-choice-img" title="Rock">
+                    <img src="img/scissors.png" alt="" id="scissors" class="human-choice-img" title="Scissors">
+                    <img src="img/paper.png" alt="" id="paper" class="human-choice-img" title="Paper">
+                </div>
+                <div class="result">
+                    <h1 id="total"></h1>
+                    <p id="total-text"></p>
+                </div>
+                <div class="computer-choice">
+                    <img src="img/question.jpg" alt="" id="computer-choice" class="computer-choice-img">
+                </div>
+                <button id="reset-button">RESET</button>
+            </div>
+        </main>
+    </div>
+    <script src="js/app.js"></script>
+</body>
+
+</html>
