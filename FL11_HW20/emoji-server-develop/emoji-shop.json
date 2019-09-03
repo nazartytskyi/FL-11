@@ -1,0 +1,451 @@
+{
+  "emoji": [
+    {
+      "id": 1,
+      "title": "Bugs pack!",
+      "stars": 5,
+      "price": 1,
+      "emoji": [
+        {
+          "codes": "1F40C",
+          "char": "🐌",
+          "name": "snail",
+          "category": "bug"
+        },
+        {
+          "codes": "1F98B",
+          "char": "🦋",
+          "name": "butterfly",
+          "category": "bug"
+        },
+        {
+          "codes": "1F41B",
+          "char": "🐛",
+          "name": "bug",
+          "category": "bug"
+        },
+        {
+          "codes": "1F41C",
+          "char": "🐜",
+          "name": "ant",
+          "category": "bug"
+        },
+        {
+          "codes": "1F41D",
+          "char": "🐝",
+          "name": "honeybee",
+          "category": "bug"
+        },
+        {
+          "codes": "1F41E",
+          "char": "🐞",
+          "name": "lady beetle",
+          "category": "bug"
+        },
+        {
+          "codes": "1F997",
+          "char": "🦗",
+          "name": "cricket",
+          "category": "bug"
+        },
+        {
+          "codes": "1F577 FE0F",
+          "char": "🕷️",
+          "name": "spider",
+          "category": "bug"
+        },
+        {
+          "codes": "1F577",
+          "char": "🕷",
+          "name": "spider",
+          "category": "bug"
+        },
+        {
+          "codes": "1F578 FE0F",
+          "char": "🕸️",
+          "name": "spider web",
+          "category": "bug"
+        },
+        {
+          "codes": "1F578",
+          "char": "🕸",
+          "name": "spider web",
+          "category": "bug"
+        },
+        {
+          "codes": "1F982",
+          "char": "🦂",
+          "name": "scorpion",
+          "category": "bug"
+        },
+        {
+          "codes": "1F99F",
+          "char": "🦟",
+          "name": "mosquito",
+          "category": "bug"
+        },
+        {
+          "codes": "1F9A0",
+          "char": "🦠",
+          "name": "microbe",
+          "category": "bug"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Reptiles pack!",
+      "stars": 4.5,
+      "price": 1.5,
+      "emoji": [
+        {
+          "codes": "1F422",
+          "char": "🐢",
+          "name": "turtle",
+          "category": "reptile"
+        },
+        {
+          "codes": "1F98E",
+          "char": "🦎",
+          "name": "lizard",
+          "category": "reptile"
+        },
+        {
+          "codes": "1F40D",
+          "char": "🐍",
+          "name": "snake",
+          "category": "reptile"
+        },
+        {
+          "codes": "1F40A",
+          "char": "🐊",
+          "name": "crocodile",
+          "category": "reptile"
+        },
+        {
+          "codes": "1F432",
+          "char": "🐲",
+          "name": "dragon face",
+          "category": "reptile"
+        },
+        {
+          "codes": "1F409",
+          "char": "🐉",
+          "name": "dragon",
+          "category": "reptile"
+        },
+        {
+          "codes": "1F995",
+          "char": "🦕",
+          "name": "sauropod",
+          "category": "reptile"
+        },
+        {
+          "codes": "1F996",
+          "char": "🦖",
+          "name": "T-Rex",
+          "category": "reptile"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "\"Cat face\" pack!",
+      "stars": 5,
+      "price": 1,
+      "emoji": [
+        {
+          "codes": "1F639",
+          "char": "😹",
+          "name": "cat with tears of joy",
+          "category": "cat-face"
+        },
+        {
+          "codes": "1F63B",
+          "char": "😻",
+          "name": "smiling cat with heart-eyes",
+          "category": "cat-face"
+        },
+        {
+          "codes": "1F63C",
+          "char": "😼",
+          "name": "cat with wry smile",
+          "category": "cat-face"
+        },
+        {
+          "codes": "1F63A",
+          "char": "😺",
+          "name": "grinning cat",
+          "category": "cat-face"
+        },
+        {
+          "codes": "1F638",
+          "char": "😸",
+          "name": "grinning cat with smiling eyes",
+          "category": "cat-face"
+        },
+        {
+          "codes": "1F63D",
+          "char": "😽",
+          "name": "kissing cat",
+          "category": "cat-face"
+        },
+        {
+          "codes": "1F640",
+          "char": "🙀",
+          "name": "weary cat",
+          "category": "cat-face"
+        },
+        {
+          "codes": "1F63F",
+          "char": "😿",
+          "name": "crying cat",
+          "category": "cat-face"
+        },
+        {
+          "codes": "1F63E",
+          "char": "😾",
+          "name": "pouting cat",
+          "category": "cat-face"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Marine pack!",
+      "stars": 3.5,
+      "price": 2,
+      "emoji": [
+        {
+          "codes": "1F42C",
+          "char": "🐬",
+          "name": "dolphin",
+          "category": "marine"
+        },
+        {
+          "codes": "1F421",
+          "char": "🐡",
+          "name": "blowfish",
+          "category": "marine"
+        },
+        {
+          "codes": "1F419",
+          "char": "🐙",
+          "name": "octopus",
+          "category": "marine"
+        },
+        {
+          "codes": "1F433",
+          "char": "🐳",
+          "name": "spouting whale",
+          "category": "marine"
+        },
+        {
+          "codes": "1F40B",
+          "char": "🐋",
+          "name": "whale",
+          "category": "marine"
+        },
+        {
+          "codes": "1F41F",
+          "char": "🐟",
+          "name": "fish",
+          "category": "marine"
+        },
+        {
+          "codes": "1F420",
+          "char": "🐠",
+          "name": "tropical fish",
+          "category": "marine"
+        },
+
+        {
+          "codes": "1F988",
+          "char": "🦈",
+          "name": "shark",
+          "category": "marine"
+        },
+        {
+          "codes": "1F41A",
+          "char": "🐚",
+          "name": "spiral shell",
+          "category": "marine"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Flowers pack!",
+      "stars": 4,
+      "price": 1.5,
+      "emoji": [
+        {
+          "codes": "1F490",
+          "char": "💐",
+          "name": "bouquet",
+          "category": "flower"
+        },
+        {
+          "codes": "1F940",
+          "char": "🥀",
+          "name": "wilted flower",
+          "category": "flower"
+        },
+        {
+          "codes": "1F33A",
+          "char": "🌺",
+          "name": "hibiscus",
+          "category": "flower"
+        },
+        {
+          "codes": "1F338",
+          "char": "🌸",
+          "name": "cherry blossom",
+          "category": "flower"
+        },
+        {
+          "codes": "1F4AE",
+          "char": "💮",
+          "name": "white flower",
+          "category": "flower"
+        },
+        {
+          "codes": "1F3F5 FE0F",
+          "char": "🏵️",
+          "name": "rosette",
+          "category": "flower"
+        },
+        {
+          "codes": "1F3F5",
+          "char": "🏵",
+          "name": "rosette",
+          "category": "flower"
+        },
+        {
+          "codes": "1F339",
+          "char": "🌹",
+          "name": "rose",
+          "category": "flower"
+        },
+        {
+          "codes": "1F33B",
+          "char": "🌻",
+          "name": "sunflower",
+          "category": "flower"
+        },
+        {
+          "codes": "1F33C",
+          "char": "🌼",
+          "name": "blossom",
+          "category": "flower"
+        },
+        {
+          "codes": "1F337",
+          "char": "🌷",
+          "name": "tulip",
+          "category": "flower"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "title": "\"Face unwell\" pack!",
+      "stars": 4,
+      "price": 1.5,
+      "emoji": [
+        {
+          "codes": "1F637",
+          "char": "😷",
+          "name": "face with medical mask",
+          "category": "face-unwell"
+        },
+        {
+          "codes": "1F922",
+          "char": "🤢",
+          "name": "nauseated face",
+          "category": "face-unwell"
+        },
+        {
+          "codes": "1F92E",
+          "char": "🤮",
+          "name": "face vomiting",
+          "category": "face-unwell"
+        },
+        {
+          "codes": "1F912",
+          "char": "🤒",
+          "name": "face with thermometer",
+          "category": "face-unwell"
+        },
+        {
+          "codes": "1F915",
+          "char": "🤕",
+          "name": "face with head-bandage",
+          "category": "face-unwell"
+        },
+        {
+          "codes": "1F927",
+          "char": "🤧",
+          "name": "sneezing face",
+          "category": "face-unwell"
+        },
+        {
+          "codes": "1F975",
+          "char": "🥵",
+          "name": "hot face",
+          "category": "face-unwell"
+        },
+        {
+          "codes": "1F976",
+          "char": "🥶",
+          "name": "cold face",
+          "category": "face-unwell"
+        },
+        {
+          "codes": "1F974",
+          "char": "🥴",
+          "name": "woozy face",
+          "category": "face-unwell"
+        },
+        {
+          "codes": "1F635",
+          "char": "😵",
+          "name": "dizzy face",
+          "category": "face-unwell"
+        },
+        {
+          "codes": "1F92F",
+          "char": "🤯",
+          "name": "exploding head",
+          "category": "face-unwell"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "title": "\"Money face\" pack!",
+      "stars": 5,
+      "price": 2.5,
+      "emoji": [
+        {
+          "codes": "1F648",
+          "char": "🙈",
+          "name": "see-no-evil monkey",
+          "category": "monkey-face"
+        },
+        {
+          "codes": "1F649",
+          "char": "🙉",
+          "name": "hear-no-evil monkey",
+          "category": "monkey-face"
+        },
+        {
+          "codes": "1F64A",
+          "char": "🙊",
+          "name": "speak-no-evil monkey",
+          "category": "monkey-face"
+        }
+      ]
+    }
+  ]
+}

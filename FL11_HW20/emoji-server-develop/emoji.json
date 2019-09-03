@@ -1,0 +1,1740 @@
+{
+  "emoji": [
+    {
+      "codes": "1F600",
+      "char": "😀",
+      "name": "grinning face",
+      "category": "face-smiling"
+    },
+    {
+      "codes": "1F603",
+      "char": "😃",
+      "name": "grinning face with big eyes",
+      "category": "face-smiling"
+    },
+    {
+      "codes": "1F604",
+      "char": "😄",
+      "name": "grinning face with smiling eyes",
+      "category": "face-smiling"
+    },
+    {
+      "codes": "1F601",
+      "char": "😁",
+      "name": "beaming face with smiling eyes",
+      "category": "face-smiling"
+    },
+    {
+      "codes": "1F606",
+      "char": "😆",
+      "name": "grinning squinting face",
+      "category": "face-smiling"
+    },
+    {
+      "codes": "1F605",
+      "char": "😅",
+      "name": "grinning face with sweat",
+      "category": "face-smiling"
+    },
+    {
+      "codes": "1F923",
+      "char": "🤣",
+      "name": "rolling on the floor laughing",
+      "category": "face-smiling"
+    },
+    {
+      "codes": "1F602",
+      "char": "😂",
+      "name": "face with tears of joy",
+      "category": "face-smiling"
+    },
+    {
+      "codes": "1F642",
+      "char": "🙂",
+      "name": "slightly smiling face",
+      "category": "face-smiling"
+    },
+    {
+      "codes": "1F643",
+      "char": "🙃",
+      "name": "upside-down face",
+      "category": "face-smiling"
+    },
+    {
+      "codes": "1F609",
+      "char": "😉",
+      "name": "winking face",
+      "category": "face-smiling"
+    },
+    {
+      "codes": "1F60A",
+      "char": "😊",
+      "name": "smiling face with smiling eyes",
+      "category": "face-smiling"
+    },
+    {
+      "codes": "1F607",
+      "char": "😇",
+      "name": "smiling face with halo",
+      "category": "face-smiling"
+    },
+    {
+      "codes": "1F970",
+      "char": "🥰",
+      "name": "smiling face with hearts",
+      "category": "face-affection"
+    },
+    {
+      "codes": "1F60D",
+      "char": "😍",
+      "name": "smiling face with heart-eyes",
+      "category": "face-affection"
+    },
+    {
+      "codes": "1F929",
+      "char": "🤩",
+      "name": "star-struck",
+      "category": "face-affection"
+    },
+    {
+      "codes": "1F618",
+      "char": "😘",
+      "name": "face blowing a kiss",
+      "category": "face-affection"
+    },
+    {
+      "codes": "1F617",
+      "char": "😗",
+      "name": "kissing face",
+      "category": "face-affection"
+    },
+    {
+      "codes": "1F61A",
+      "char": "😚",
+      "name": "kissing face with closed eyes",
+      "category": "face-affection"
+    },
+    {
+      "codes": "1F619",
+      "char": "😙",
+      "name": "kissing face with smiling eyes",
+      "category": "face-affection"
+    },
+    {
+      "codes": "1F60B",
+      "char": "😋",
+      "name": "face savoring food",
+      "category": "face-tongue"
+    },
+    {
+      "codes": "1F61B",
+      "char": "😛",
+      "name": "face with tongue",
+      "category": "face-tongue"
+    },
+    {
+      "codes": "1F61C",
+      "char": "😜",
+      "name": "winking face with tongue",
+      "category": "face-tongue"
+    },
+    {
+      "codes": "1F92A",
+      "char": "🤪",
+      "name": "zany face",
+      "category": "face-tongue"
+    },
+    {
+      "codes": "1F61D",
+      "char": "😝",
+      "name": "squinting face with tongue",
+      "category": "face-tongue"
+    },
+    {
+      "codes": "1F911",
+      "char": "🤑",
+      "name": "money-mouth face",
+      "category": "face-tongue"
+    },
+    {
+      "codes": "1F917",
+      "char": "🤗",
+      "name": "hugging face",
+      "category": "face-hand"
+    },
+    {
+      "codes": "1F92D",
+      "char": "🤭",
+      "name": "face with hand over mouth",
+      "category": "face-hand"
+    },
+    {
+      "codes": "1F92B",
+      "char": "🤫",
+      "name": "shushing face",
+      "category": "face-hand"
+    },
+    {
+      "codes": "1F914",
+      "char": "🤔",
+      "name": "thinking face",
+      "category": "face-hand"
+    },
+    {
+      "codes": "1F910",
+      "char": "🤐",
+      "name": "zipper-mouth face",
+      "category": "face-neutral-skeptical"
+    },
+    {
+      "codes": "1F928",
+      "char": "🤨",
+      "name": "face with raised eyebrow",
+      "category": "face-neutral-skeptical"
+    },
+    {
+      "codes": "1F610",
+      "char": "😐",
+      "name": "neutral face",
+      "category": "face-neutral-skeptical"
+    },
+    {
+      "codes": "1F611",
+      "char": "😑",
+      "name": "expressionless face",
+      "category": "face-neutral-skeptical"
+    },
+    {
+      "codes": "1F636",
+      "char": "😶",
+      "name": "face without mouth",
+      "category": "face-neutral-skeptical"
+    },
+    {
+      "codes": "1F60F",
+      "char": "😏",
+      "name": "smirking face",
+      "category": "face-neutral-skeptical"
+    },
+    {
+      "codes": "1F612",
+      "char": "😒",
+      "name": "unamused face",
+      "category": "face-neutral-skeptical"
+    },
+    {
+      "codes": "1F644",
+      "char": "🙄",
+      "name": "face with rolling eyes",
+      "category": "face-neutral-skeptical"
+    },
+    {
+      "codes": "1F62C",
+      "char": "😬",
+      "name": "grimacing face",
+      "category": "face-neutral-skeptical"
+    },
+    {
+      "codes": "1F925",
+      "char": "🤥",
+      "name": "lying face",
+      "category": "face-neutral-skeptical"
+    },
+    {
+      "codes": "1F60C",
+      "char": "😌",
+      "name": "relieved face",
+      "category": "face-sleepy"
+    },
+    {
+      "codes": "1F614",
+      "char": "😔",
+      "name": "pensive face",
+      "category": "face-sleepy"
+    },
+    {
+      "codes": "1F62A",
+      "char": "😪",
+      "name": "sleepy face",
+      "category": "face-sleepy"
+    },
+    {
+      "codes": "1F924",
+      "char": "🤤",
+      "name": "drooling face",
+      "category": "face-sleepy"
+    },
+    {
+      "codes": "1F634",
+      "char": "😴",
+      "name": "sleeping face",
+      "category": "face-sleepy"
+    },
+    {
+      "codes": "1F637",
+      "char": "😷",
+      "name": "face with medical mask",
+      "category": "face-unwell"
+    },
+    {
+      "codes": "1F912",
+      "char": "🤒",
+      "name": "face with thermometer",
+      "category": "face-unwell"
+    },
+    {
+      "codes": "1F915",
+      "char": "🤕",
+      "name": "face with head-bandage",
+      "category": "face-unwell"
+    },
+    {
+      "codes": "1F922",
+      "char": "🤢",
+      "name": "nauseated face",
+      "category": "face-unwell"
+    },
+    {
+      "codes": "1F92E",
+      "char": "🤮",
+      "name": "face vomiting",
+      "category": "face-unwell"
+    },
+    {
+      "codes": "1F927",
+      "char": "🤧",
+      "name": "sneezing face",
+      "category": "face-unwell"
+    },
+    {
+      "codes": "1F975",
+      "char": "🥵",
+      "name": "hot face",
+      "category": "face-unwell"
+    },
+    {
+      "codes": "1F976",
+      "char": "🥶",
+      "name": "cold face",
+      "category": "face-unwell"
+    },
+    {
+      "codes": "1F974",
+      "char": "🥴",
+      "name": "woozy face",
+      "category": "face-unwell"
+    },
+    {
+      "codes": "1F635",
+      "char": "😵",
+      "name": "dizzy face",
+      "category": "face-unwell"
+    },
+    {
+      "codes": "1F92F",
+      "char": "🤯",
+      "name": "exploding head",
+      "category": "face-unwell"
+    },
+    {
+      "codes": "1F920",
+      "char": "🤠",
+      "name": "cowboy hat face",
+      "category": "face-hat"
+    },
+    {
+      "codes": "1F973",
+      "char": "🥳",
+      "name": "partying face",
+      "category": "face-hat"
+    },
+    {
+      "codes": "1F60E",
+      "char": "😎",
+      "name": "smiling face with sunglasses",
+      "category": "face-glasses"
+    },
+    {
+      "codes": "1F913",
+      "char": "🤓",
+      "name": "nerd face",
+      "category": "face-glasses"
+    },
+    {
+      "codes": "1F9D0",
+      "char": "🧐",
+      "name": "face with monocle",
+      "category": "face-glasses"
+    },
+    {
+      "codes": "1F615",
+      "char": "😕",
+      "name": "confused face",
+      "category": "face-concerned"
+    },
+    {
+      "codes": "1F61F",
+      "char": "😟",
+      "name": "worried face",
+      "category": "face-concerned"
+    },
+    {
+      "codes": "1F641",
+      "char": "🙁",
+      "name": "slightly frowning face",
+      "category": "face-concerned"
+    },
+    {
+      "codes": "2639 FE0F",
+      "char": "☹️",
+      "name": "frowning face",
+      "category": "face-concerned"
+    },
+    {
+      "codes": "2639",
+      "char": "☹",
+      "name": "frowning face",
+      "category": "face-concerned"
+    },
+    {
+      "codes": "1F62E",
+      "char": "😮",
+      "name": "face with open mouth",
+      "category": "face-concerned"
+    },
+    {
+      "codes": "1F62F",
+      "char": "😯",
+      "name": "hushed face",
+      "category": "face-concerned"
+    },
+    {
+      "codes": "1F632",
+      "char": "😲",
+      "name": "astonished face",
+      "category": "face-concerned"
+    },
+    {
+      "codes": "1F633",
+      "char": "😳",
+      "name": "flushed face",
+      "category": "face-concerned"
+    },
+    {
+      "codes": "1F97A",
+      "char": "🥺",
+      "name": "pleading face",
+      "category": "face-concerned"
+    },
+    {
+      "codes": "1F626",
+      "char": "😦",
+      "name": "frowning face with open mouth",
+      "category": "face-concerned"
+    },
+    {
+      "codes": "1F627",
+      "char": "😧",
+      "name": "anguished face",
+      "category": "face-concerned"
+    },
+    {
+      "codes": "1F628",
+      "char": "😨",
+      "name": "fearful face",
+      "category": "face-concerned"
+    },
+    {
+      "codes": "1F630",
+      "char": "😰",
+      "name": "anxious face with sweat",
+      "category": "face-concerned"
+    },
+    {
+      "codes": "1F625",
+      "char": "😥",
+      "name": "sad but relieved face",
+      "category": "face-concerned"
+    },
+    {
+      "codes": "1F622",
+      "char": "😢",
+      "name": "crying face",
+      "category": "face-concerned"
+    },
+    {
+      "codes": "1F62D",
+      "char": "😭",
+      "name": "loudly crying face",
+      "category": "face-concerned"
+    },
+    {
+      "codes": "1F631",
+      "char": "😱",
+      "name": "face screaming in fear",
+      "category": "face-concerned"
+    },
+    {
+      "codes": "1F616",
+      "char": "😖",
+      "name": "confounded face",
+      "category": "face-concerned"
+    },
+    {
+      "codes": "1F623",
+      "char": "😣",
+      "name": "persevering face",
+      "category": "face-concerned"
+    },
+    {
+      "codes": "1F61E",
+      "char": "😞",
+      "name": "disappointed face",
+      "category": "face-concerned"
+    },
+    {
+      "codes": "1F613",
+      "char": "😓",
+      "name": "downcast face with sweat",
+      "category": "face-concerned"
+    },
+    {
+      "codes": "1F629",
+      "char": "😩",
+      "name": "weary face",
+      "category": "face-concerned"
+    },
+    {
+      "codes": "1F62B",
+      "char": "😫",
+      "name": "tired face",
+      "category": "face-concerned"
+    },
+    {
+      "codes": "1F971",
+      "char": "🥱",
+      "name": "yawning face",
+      "category": "face-concerned"
+    },
+    {
+      "codes": "1F624",
+      "char": "😤",
+      "name": "face with steam from nose",
+      "category": "face-negative"
+    },
+    {
+      "codes": "1F621",
+      "char": "😡",
+      "name": "pouting face",
+      "category": "face-negative"
+    },
+    {
+      "codes": "1F620",
+      "char": "😠",
+      "name": "angry face",
+      "category": "face-negative"
+    },
+    {
+      "codes": "1F92C",
+      "char": "🤬",
+      "name": "face with symbols on mouth",
+      "category": "face-negative"
+    },
+    {
+      "codes": "1F608",
+      "char": "😈",
+      "name": "smiling face with horns",
+      "category": "face-negative"
+    },
+    {
+      "codes": "1F47F",
+      "char": "👿",
+      "name": "angry face with horns",
+      "category": "face-negative"
+    },
+    {
+      "codes": "1F480",
+      "char": "💀",
+      "name": "skull",
+      "category": "face-negative"
+    },
+    {
+      "codes": "1F4A9",
+      "char": "💩",
+      "name": "pile of poo",
+      "category": "face-costume"
+    },
+    {
+      "codes": "1F921",
+      "char": "🤡",
+      "name": "clown face",
+      "category": "face-costume"
+    },
+    {
+      "codes": "1F479",
+      "char": "👹",
+      "name": "ogre",
+      "category": "face-costume"
+    },
+    {
+      "codes": "1F47A",
+      "char": "👺",
+      "name": "goblin",
+      "category": "face-costume"
+    },
+    {
+      "codes": "1F47B",
+      "char": "👻",
+      "name": "ghost",
+      "category": "face-costume"
+    },
+    {
+      "codes": "1F47D",
+      "char": "👽",
+      "name": "alien",
+      "category": "face-costume"
+    },
+    {
+      "codes": "1F47E",
+      "char": "👾",
+      "name": "alien monster",
+      "category": "face-costume"
+    },
+    {
+      "codes": "1F916",
+      "char": "🤖",
+      "name": "robot",
+      "category": "face-costume"
+    },
+    {
+      "codes": "1F63A",
+      "char": "😺",
+      "name": "grinning cat",
+      "category": "cat-face"
+    },
+    {
+      "codes": "1F638",
+      "char": "😸",
+      "name": "grinning cat with smiling eyes",
+      "category": "cat-face"
+    },
+    {
+      "codes": "1F639",
+      "char": "😹",
+      "name": "cat with tears of joy",
+      "category": "cat-face"
+    },
+    {
+      "codes": "1F63B",
+      "char": "😻",
+      "name": "smiling cat with heart-eyes",
+      "category": "cat-face"
+    },
+    {
+      "codes": "1F63C",
+      "char": "😼",
+      "name": "cat with wry smile",
+      "category": "cat-face"
+    },
+    {
+      "codes": "1F63D",
+      "char": "😽",
+      "name": "kissing cat",
+      "category": "cat-face"
+    },
+    {
+      "codes": "1F640",
+      "char": "🙀",
+      "name": "weary cat",
+      "category": "cat-face"
+    },
+    {
+      "codes": "1F63F",
+      "char": "😿",
+      "name": "crying cat",
+      "category": "cat-face"
+    },
+    {
+      "codes": "1F63E",
+      "char": "😾",
+      "name": "pouting cat",
+      "category": "cat-face"
+    },
+    {
+      "codes": "1F648",
+      "char": "🙈",
+      "name": "see-no-evil monkey",
+      "category": "monkey-face"
+    },
+    {
+      "codes": "1F649",
+      "char": "🙉",
+      "name": "hear-no-evil monkey",
+      "category": "monkey-face"
+    },
+    {
+      "codes": "1F64A",
+      "char": "🙊",
+      "name": "speak-no-evil monkey",
+      "category": "monkey-face"
+    },
+    {
+      "codes": "1F48B",
+      "char": "💋",
+      "name": "kiss mark",
+      "category": "emotion"
+    },
+    {
+      "codes": "1F48C",
+      "char": "💌",
+      "name": "love letter",
+      "category": "emotion"
+    },
+    {
+      "codes": "1F498",
+      "char": "💘",
+      "name": "heart with arrow",
+      "category": "emotion"
+    },
+    {
+      "codes": "1F49D",
+      "char": "💝",
+      "name": "heart with ribbon",
+      "category": "emotion"
+    },
+    {
+      "codes": "1F496",
+      "char": "💖",
+      "name": "sparkling heart",
+      "category": "emotion"
+    },
+    {
+      "codes": "1F497",
+      "char": "💗",
+      "name": "growing heart",
+      "category": "emotion"
+    },
+    {
+      "codes": "1F493",
+      "char": "💓",
+      "name": "beating heart",
+      "category": "emotion"
+    },
+    {
+      "codes": "1F49E",
+      "char": "💞",
+      "name": "revolving hearts",
+      "category": "emotion"
+    },
+    {
+      "codes": "1F495",
+      "char": "💕",
+      "name": "two hearts",
+      "category": "emotion"
+    },
+    {
+      "codes": "1F49F",
+      "char": "💟",
+      "name": "heart decoration",
+      "category": "emotion"
+    },
+    {
+      "codes": "2763 FE0F",
+      "char": "❣️",
+      "name": "heart exclamation",
+      "category": "emotion"
+    },
+    {
+      "codes": "2763",
+      "char": "❣",
+      "name": "heart exclamation",
+      "category": "emotion"
+    },
+    {
+      "codes": "1F494",
+      "char": "💔",
+      "name": "broken heart",
+      "category": "emotion"
+    },
+    {
+      "codes": "2764 FE0F",
+      "char": "❤️",
+      "name": "red heart",
+      "category": "emotion"
+    },
+    {
+      "codes": "2764",
+      "char": "❤",
+      "name": "red heart",
+      "category": "emotion"
+    },
+    {
+      "codes": "1F9E1",
+      "char": "🧡",
+      "name": "orange heart",
+      "category": "emotion"
+    },
+    {
+      "codes": "1F49B",
+      "char": "💛",
+      "name": "yellow heart",
+      "category": "emotion"
+    },
+    {
+      "codes": "1F49A",
+      "char": "💚",
+      "name": "green heart",
+      "category": "emotion"
+    },
+    {
+      "codes": "1F499",
+      "char": "💙",
+      "name": "blue heart",
+      "category": "emotion"
+    },
+    {
+      "codes": "1F49C",
+      "char": "💜",
+      "name": "purple heart",
+      "category": "emotion"
+    },
+    {
+      "codes": "1F90E",
+      "char": "🤎",
+      "name": "brown heart",
+      "category": "emotion"
+    },
+    {
+      "codes": "1F5A4",
+      "char": "🖤",
+      "name": "black heart",
+      "category": "emotion"
+    },
+    {
+      "codes": "1F90D",
+      "char": "🤍",
+      "name": "white heart",
+      "category": "emotion"
+    },
+    {
+      "codes": "1F4AF",
+      "char": "💯",
+      "name": "hundred points",
+      "category": "emotion"
+    },
+    {
+      "codes": "1F4A2",
+      "char": "💢",
+      "name": "anger symbol",
+      "category": "emotion"
+    },
+    {
+      "codes": "1F4A5",
+      "char": "💥",
+      "name": "collision",
+      "category": "emotion"
+    },
+    {
+      "codes": "1F4AB",
+      "char": "💫",
+      "name": "dizzy",
+      "category": "emotion"
+    },
+    {
+      "codes": "1F4A6",
+      "char": "💦",
+      "name": "sweat droplets",
+      "category": "emotion"
+    },
+    {
+      "codes": "1F4A8",
+      "char": "💨",
+      "name": "dashing away",
+      "category": "emotion"
+    },
+    {
+      "codes": "1F573 FE0F",
+      "char": "🕳️",
+      "name": "hole",
+      "category": "emotion"
+    },
+    {
+      "codes": "1F573",
+      "char": "🕳",
+      "name": "hole",
+      "category": "emotion"
+    },
+    {
+      "codes": "1F4A3",
+      "char": "💣",
+      "name": "bomb",
+      "category": "emotion"
+    },
+    {
+      "codes": "1F4AC",
+      "char": "💬",
+      "name": "speech balloon",
+      "category": "emotion"
+    },
+    {
+      "codes": "1F441 FE0F 200D 1F5E8 FE0F",
+      "char": "👁️‍🗨️",
+      "name": "eye in speech bubble",
+      "category": "emotion"
+    },
+    {
+      "codes": "1F441 200D 1F5E8 FE0F",
+      "char": "👁‍🗨️",
+      "name": "eye in speech bubble",
+      "category": "emotion"
+    },
+    {
+      "codes": "1F441 FE0F 200D 1F5E8",
+      "char": "👁️‍🗨",
+      "name": "eye in speech bubble",
+      "category": "emotion"
+    },
+    {
+      "codes": "1F441 200D 1F5E8",
+      "char": "👁‍🗨",
+      "name": "eye in speech bubble",
+      "category": "emotion"
+    },
+    {
+      "codes": "1F5E8 FE0F",
+      "char": "🗨️",
+      "name": "left speech bubble",
+      "category": "emotion"
+    },
+    {
+      "codes": "1F5E8",
+      "char": "🗨",
+      "name": "left speech bubble",
+      "category": "emotion"
+    },
+    {
+      "codes": "1F5EF FE0F",
+      "char": "🗯️",
+      "name": "right anger bubble",
+      "category": "emotion"
+    },
+    {
+      "codes": "1F5EF",
+      "char": "🗯",
+      "name": "right anger bubble",
+      "category": "emotion"
+    },
+    {
+      "codes": "1F4AD",
+      "char": "💭",
+      "name": "thought balloon",
+      "category": "emotion"
+    },
+    {
+      "codes": "1F4A4",
+      "char": "💤",
+      "name": "zzz",
+      "category": "emotion"
+    },
+    {
+      "codes": "1F435",
+      "char": "🐵",
+      "name": "monkey face",
+      "category": "mammal"
+    },
+    {
+      "codes": "1F412",
+      "char": "🐒",
+      "name": "monkey",
+      "category": "mammal"
+    },
+    {
+      "codes": "1F98D",
+      "char": "🦍",
+      "name": "gorilla",
+      "category": "mammal"
+    },
+    {
+      "codes": "1F9A7",
+      "char": "🦧",
+      "name": "orangutan",
+      "category": "mammal"
+    },
+    {
+      "codes": "1F436",
+      "char": "🐶",
+      "name": "dog face",
+      "category": "mammal"
+    },
+    {
+      "codes": "1F415",
+      "char": "🐕",
+      "name": "dog",
+      "category": "mammal"
+    },
+    {
+      "codes": "1F9AE",
+      "char": "🦮",
+      "name": "guide dog",
+      "category": "mammal"
+    },
+    {
+      "codes": "1F415 200D 1F9BA",
+      "char": "🐕‍🦺",
+      "name": "service dog",
+      "category": "mammal"
+    },
+    {
+      "codes": "1F429",
+      "char": "🐩",
+      "name": "poodle",
+      "category": "mammal"
+    },
+    {
+      "codes": "1F43A",
+      "char": "🐺",
+      "name": "wolf",
+      "category": "mammal"
+    },
+    {
+      "codes": "1F98A",
+      "char": "🦊",
+      "name": "fox",
+      "category": "mammal"
+    },
+    {
+      "codes": "1F99D",
+      "char": "🦝",
+      "name": "raccoon",
+      "category": "mammal"
+    },
+    {
+      "codes": "1F431",
+      "char": "🐱",
+      "name": "cat face",
+      "category": "mammal"
+    },
+    {
+      "codes": "1F408",
+      "char": "🐈",
+      "name": "cat",
+      "category": "mammal"
+    },
+    {
+      "codes": "1F981",
+      "char": "🦁",
+      "name": "lion",
+      "category": "mammal"
+    },
+    {
+      "codes": "1F42F",
+      "char": "🐯",
+      "name": "tiger face",
+      "category": "mammal"
+    },
+    {
+      "codes": "1F405",
+      "char": "🐅",
+      "name": "tiger",
+      "category": "mammal"
+    },
+    {
+      "codes": "1F406",
+      "char": "🐆",
+      "name": "leopard",
+      "category": "mammal"
+    },
+    {
+      "codes": "1F434",
+      "char": "🐴",
+      "name": "horse face",
+      "category": "mammal"
+    },
+    {
+      "codes": "1F40E",
+      "char": "🐎",
+      "name": "horse",
+      "category": "mammal"
+    },
+    {
+      "codes": "1F984",
+      "char": "🦄",
+      "name": "unicorn",
+      "category": "mammal"
+    },
+    {
+      "codes": "1F993",
+      "char": "🦓",
+      "name": "zebra",
+      "category": "mammal"
+    },
+    {
+      "codes": "1F98C",
+      "char": "🦌",
+      "name": "deer",
+      "category": "mammal"
+    },
+    {
+      "codes": "1F42E",
+      "char": "🐮",
+      "name": "cow face",
+      "category": "mammal"
+    },
+    {
+      "codes": "1F402",
+      "char": "🐂",
+      "name": "ox",
+      "category": "mammal"
+    },
+    {
+      "codes": "1F403",
+      "char": "🐃",
+      "name": "water buffalo",
+      "category": "mammal"
+    },
+    {
+      "codes": "1F404",
+      "char": "🐄",
+      "name": "cow",
+      "category": "mammal"
+    },
+    {
+      "codes": "1F437",
+      "char": "🐷",
+      "name": "pig face",
+      "category": "mammal"
+    },
+    {
+      "codes": "1F416",
+      "char": "🐖",
+      "name": "pig",
+      "category": "mammal"
+    },
+    {
+      "codes": "1F417",
+      "char": "🐗",
+      "name": "boar",
+      "category": "mammal"
+    },
+    {
+      "codes": "1F43D",
+      "char": "🐽",
+      "name": "pig nose",
+      "category": "mammal"
+    },
+    {
+      "codes": "1F40F",
+      "char": "🐏",
+      "name": "ram",
+      "category": "mammal"
+    },
+    {
+      "codes": "1F411",
+      "char": "🐑",
+      "name": "ewe",
+      "category": "mammal"
+    },
+    {
+      "codes": "1F410",
+      "char": "🐐",
+      "name": "goat",
+      "category": "mammal"
+    },
+    {
+      "codes": "1F42A",
+      "char": "🐪",
+      "name": "camel",
+      "category": "mammal"
+    },
+    {
+      "codes": "1F42B",
+      "char": "🐫",
+      "name": "two-hump camel",
+      "category": "mammal"
+    },
+    {
+      "codes": "1F999",
+      "char": "🦙",
+      "name": "llama",
+      "category": "mammal"
+    },
+    {
+      "codes": "1F992",
+      "char": "🦒",
+      "name": "giraffe",
+      "category": "mammal"
+    },
+    {
+      "codes": "1F418",
+      "char": "🐘",
+      "name": "elephant",
+      "category": "mammal"
+    },
+    {
+      "codes": "1F98F",
+      "char": "🦏",
+      "name": "rhinoceros",
+      "category": "mammal"
+    },
+    {
+      "codes": "1F99B",
+      "char": "🦛",
+      "name": "hippopotamus",
+      "category": "mammal"
+    },
+    {
+      "codes": "1F42D",
+      "char": "🐭",
+      "name": "mouse face",
+      "category": "mammal"
+    },
+    {
+      "codes": "1F401",
+      "char": "🐁",
+      "name": "mouse",
+      "category": "mammal"
+    },
+    {
+      "codes": "1F400",
+      "char": "🐀",
+      "name": "rat",
+      "category": "mammal"
+    },
+    {
+      "codes": "1F439",
+      "char": "🐹",
+      "name": "hamster",
+      "category": "mammal"
+    },
+    {
+      "codes": "1F430",
+      "char": "🐰",
+      "name": "rabbit face",
+      "category": "mammal"
+    },
+    {
+      "codes": "1F407",
+      "char": "🐇",
+      "name": "rabbit",
+      "category": "mammal"
+    },
+    {
+      "codes": "1F43F FE0F",
+      "char": "🐿️",
+      "name": "chipmunk",
+      "category": "mammal"
+    },
+    {
+      "codes": "1F43F",
+      "char": "🐿",
+      "name": "chipmunk",
+      "category": "mammal"
+    },
+    {
+      "codes": "1F994",
+      "char": "🦔",
+      "name": "hedgehog",
+      "category": "mammal"
+    },
+    {
+      "codes": "1F987",
+      "char": "🦇",
+      "name": "bat",
+      "category": "mammal"
+    },
+    {
+      "codes": "1F43B",
+      "char": "🐻",
+      "name": "bear",
+      "category": "mammal"
+    },
+    {
+      "codes": "1F428",
+      "char": "🐨",
+      "name": "koala",
+      "category": "mammal"
+    },
+    {
+      "codes": "1F43C",
+      "char": "🐼",
+      "name": "panda",
+      "category": "mammal"
+    },
+    {
+      "codes": "1F9A5",
+      "char": "🦥",
+      "name": "sloth",
+      "category": "mammal"
+    },
+    {
+      "codes": "1F9A6",
+      "char": "🦦",
+      "name": "otter",
+      "category": "mammal"
+    },
+    {
+      "codes": "1F9A8",
+      "char": "🦨",
+      "name": "skunk",
+      "category": "mammal"
+    },
+    {
+      "codes": "1F998",
+      "char": "🦘",
+      "name": "kangaroo",
+      "category": "mammal"
+    },
+    {
+      "codes": "1F9A1",
+      "char": "🦡",
+      "name": "badger",
+      "category": "mammal"
+    },
+    {
+      "codes": "1F43E",
+      "char": "🐾",
+      "name": "paw prints",
+      "category": "mammal"
+    },
+    {
+      "codes": "1F983",
+      "char": "🦃",
+      "name": "turkey",
+      "category": "bird"
+    },
+    {
+      "codes": "1F414",
+      "char": "🐔",
+      "name": "chicken",
+      "category": "bird"
+    },
+    {
+      "codes": "1F413",
+      "char": "🐓",
+      "name": "rooster",
+      "category": "bird"
+    },
+    {
+      "codes": "1F423",
+      "char": "🐣",
+      "name": "hatching chick",
+      "category": "bird"
+    },
+    {
+      "codes": "1F424",
+      "char": "🐤",
+      "name": "baby chick",
+      "category": "bird"
+    },
+    {
+      "codes": "1F425",
+      "char": "🐥",
+      "name": "front-facing baby chick",
+      "category": "bird"
+    },
+    {
+      "codes": "1F426",
+      "char": "🐦",
+      "name": "bird",
+      "category": "bird"
+    },
+    {
+      "codes": "1F427",
+      "char": "🐧",
+      "name": "penguin",
+      "category": "bird"
+    },
+    {
+      "codes": "1F54A FE0F",
+      "char": "🕊️",
+      "name": "dove",
+      "category": "bird"
+    },
+    {
+      "codes": "1F54A",
+      "char": "🕊",
+      "name": "dove",
+      "category": "bird"
+    },
+    {
+      "codes": "1F985",
+      "char": "🦅",
+      "name": "eagle",
+      "category": "bird"
+    },
+    {
+      "codes": "1F986",
+      "char": "🦆",
+      "name": "duck",
+      "category": "bird"
+    },
+    {
+      "codes": "1F9A2",
+      "char": "🦢",
+      "name": "swan",
+      "category": "bird"
+    },
+    {
+      "codes": "1F989",
+      "char": "🦉",
+      "name": "owl",
+      "category": "bird"
+    },
+    {
+      "codes": "1F9A9",
+      "char": "🦩",
+      "name": "flamingo",
+      "category": "bird"
+    },
+    {
+      "codes": "1F99A",
+      "char": "🦚",
+      "name": "peacock",
+      "category": "bird"
+    },
+    {
+      "codes": "1F99C",
+      "char": "🦜",
+      "name": "parrot",
+      "category": "bird"
+    },
+    {
+      "codes": "1F438",
+      "char": "🐸",
+      "name": "frog",
+      "category": "amphibian"
+    },
+    {
+      "codes": "1F40A",
+      "char": "🐊",
+      "name": "crocodile",
+      "category": "reptile"
+    },
+    {
+      "codes": "1F422",
+      "char": "🐢",
+      "name": "turtle",
+      "category": "reptile"
+    },
+    {
+      "codes": "1F98E",
+      "char": "🦎",
+      "name": "lizard",
+      "category": "reptile"
+    },
+    {
+      "codes": "1F40D",
+      "char": "🐍",
+      "name": "snake",
+      "category": "reptile"
+    },
+    {
+      "codes": "1F432",
+      "char": "🐲",
+      "name": "dragon face",
+      "category": "reptile"
+    },
+    {
+      "codes": "1F409",
+      "char": "🐉",
+      "name": "dragon",
+      "category": "reptile"
+    },
+    {
+      "codes": "1F995",
+      "char": "🦕",
+      "name": "sauropod",
+      "category": "reptile"
+    },
+    {
+      "codes": "1F996",
+      "char": "🦖",
+      "name": "T-Rex",
+      "category": "reptile"
+    },
+    {
+      "codes": "1F433",
+      "char": "🐳",
+      "name": "spouting whale",
+      "category": "marine"
+    },
+    {
+      "codes": "1F40B",
+      "char": "🐋",
+      "name": "whale",
+      "category": "marine"
+    },
+    {
+      "codes": "1F42C",
+      "char": "🐬",
+      "name": "dolphin",
+      "category": "marine"
+    },
+    {
+      "codes": "1F41F",
+      "char": "🐟",
+      "name": "fish",
+      "category": "marine"
+    },
+    {
+      "codes": "1F420",
+      "char": "🐠",
+      "name": "tropical fish",
+      "category": "marine"
+    },
+    {
+      "codes": "1F421",
+      "char": "🐡",
+      "name": "blowfish",
+      "category": "marine"
+    },
+    {
+      "codes": "1F988",
+      "char": "🦈",
+      "name": "shark",
+      "category": "marine"
+    },
+    {
+      "codes": "1F419",
+      "char": "🐙",
+      "name": "octopus",
+      "category": "marine"
+    },
+    {
+      "codes": "1F41A",
+      "char": "🐚",
+      "name": "spiral shell",
+      "category": "marine"
+    },
+    {
+      "codes": "1F40C",
+      "char": "🐌",
+      "name": "snail",
+      "category": "bug"
+    },
+    {
+      "codes": "1F98B",
+      "char": "🦋",
+      "name": "butterfly",
+      "category": "bug"
+    },
+    {
+      "codes": "1F41B",
+      "char": "🐛",
+      "name": "bug",
+      "category": "bug"
+    },
+    {
+      "codes": "1F41C",
+      "char": "🐜",
+      "name": "ant",
+      "category": "bug"
+    },
+    {
+      "codes": "1F41D",
+      "char": "🐝",
+      "name": "honeybee",
+      "category": "bug"
+    },
+    {
+      "codes": "1F41E",
+      "char": "🐞",
+      "name": "lady beetle",
+      "category": "bug"
+    },
+    {
+      "codes": "1F997",
+      "char": "🦗",
+      "name": "cricket",
+      "category": "bug"
+    },
+    {
+      "codes": "1F577 FE0F",
+      "char": "🕷️",
+      "name": "spider",
+      "category": "bug"
+    },
+    {
+      "codes": "1F577",
+      "char": "🕷",
+      "name": "spider",
+      "category": "bug"
+    },
+    {
+      "codes": "1F578 FE0F",
+      "char": "🕸️",
+      "name": "spider web",
+      "category": "bug"
+    },
+    {
+      "codes": "1F578",
+      "char": "🕸",
+      "name": "spider web",
+      "category": "bug"
+    },
+    {
+      "codes": "1F982",
+      "char": "🦂",
+      "name": "scorpion",
+      "category": "bug"
+    },
+    {
+      "codes": "1F99F",
+      "char": "🦟",
+      "name": "mosquito",
+      "category": "bug"
+    },
+    {
+      "codes": "1F9A0",
+      "char": "🦠",
+      "name": "microbe",
+      "category": "bug"
+    },
+    {
+      "codes": "1F490",
+      "char": "💐",
+      "name": "bouquet",
+      "category": "flower"
+    },
+    {
+      "codes": "1F338",
+      "char": "🌸",
+      "name": "cherry blossom",
+      "category": "flower"
+    },
+    {
+      "codes": "1F4AE",
+      "char": "💮",
+      "name": "white flower",
+      "category": "flower"
+    },
+    {
+      "codes": "1F3F5 FE0F",
+      "char": "🏵️",
+      "name": "rosette",
+      "category": "flower"
+    },
+    {
+      "codes": "1F3F5",
+      "char": "🏵",
+      "name": "rosette",
+      "category": "flower"
+    },
+    {
+      "codes": "1F339",
+      "char": "🌹",
+      "name": "rose",
+      "category": "flower"
+    },
+    {
+      "codes": "1F940",
+      "char": "🥀",
+      "name": "wilted flower",
+      "category": "flower"
+    },
+    {
+      "codes": "1F33A",
+      "char": "🌺",
+      "name": "hibiscus",
+      "category": "flower"
+    },
+    {
+      "codes": "1F33B",
+      "char": "🌻",
+      "name": "sunflower",
+      "category": "flower"
+    },
+    {
+      "codes": "1F33C",
+      "char": "🌼",
+      "name": "blossom",
+      "category": "flower"
+    },
+    {
+      "codes": "1F337",
+      "char": "🌷",
+      "name": "tulip",
+      "category": "flower"
+    },
+    {
+      "codes": "1F331",
+      "char": "🌱",
+      "name": "seedling",
+      "category": "flower-other"
+    },
+    {
+      "codes": "1F332",
+      "char": "🌲",
+      "name": "evergreen tree",
+      "category": "flower-other"
+    },
+    {
+      "codes": "1F333",
+      "char": "🌳",
+      "name": "deciduous tree",
+      "category": "flower-other"
+    },
+    {
+      "codes": "1F334",
+      "char": "🌴",
+      "name": "palm tree",
+      "category": "flower-other"
+    },
+    {
+      "codes": "1F335",
+      "char": "🌵",
+      "name": "cactus",
+      "category": "flower-other"
+    },
+    {
+      "codes": "1F33E",
+      "char": "🌾",
+      "name": "sheaf of rice",
+      "category": "flower-other"
+    },
+    {
+      "codes": "1F33F",
+      "char": "🌿",
+      "name": "herb",
+      "category": "flower-other"
+    },
+    {
+      "codes": "2618 FE0F",
+      "char": "☘️",
+      "name": "shamrock",
+      "category": "flower-other"
+    },
+    {
+      "codes": "2618",
+      "char": "☘",
+      "name": "shamrock",
+      "category": "flower-other"
+    },
+    {
+      "codes": "1F340",
+      "char": "🍀",
+      "name": "four leaf clover",
+      "category": "flower-other"
+    },
+    {
+      "codes": "1F341",
+      "char": "🍁",
+      "name": "maple leaf",
+      "category": "flower-other"
+    },
+    {
+      "codes": "1F342",
+      "char": "🍂",
+      "name": "fallen leaf",
+      "category": "flower-other"
+    },
+    {
+      "codes": "1F343",
+      "char": "🍃",
+      "name": "leaf fluttering in wind",
+      "category": "flower-other"
+    }
+  ]
+}
+
+  
