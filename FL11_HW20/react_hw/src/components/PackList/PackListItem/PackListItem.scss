@@ -1,0 +1,42 @@
+.item {
+    display: flex; 
+    width: 200px;
+    height: 200px;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    border-radius: 15px;
+    margin-top: 15px;
+   
+    .preview-wrapper {
+        width: 90px;
+        height: 90px;
+        position: relative;
+        
+        .preview-item-1 {
+            position: absolute;
+            font-size: 70px;
+        }
+        .preview-item-2 {
+            position: absolute;
+            font-size: 40px;
+            bottom: -10px;
+            right: -10px;
+        }
+        .preview-item-3 {
+            position: absolute;
+            font-size: 20px;
+            bottom: -10px;
+            right: 20px;
+        }
+
+    }
+}
+
+.disabled {
+    opacity: 0.5;
+    
+    *:hover {
+        cursor: default;
+    }
+}

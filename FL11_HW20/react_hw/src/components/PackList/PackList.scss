@@ -1,0 +1,12 @@
+.list {
+    width: 600px;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    padding: 25px;
+    
+    > *:hover {
+        cursor: pointer;
+        background-color: #E0F0E0;
+    }
+}
